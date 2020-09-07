@@ -10,8 +10,9 @@ namespace probagit
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello Word");
 
+            Console.ReadKey();
 
         }
     }
